@@ -164,22 +164,13 @@
 
 ## 🚀 Video Demo:
 
-Here’s a short video showcasing the app's functionality in Dark & Bright Mode:
+Here’s a short video showcasing the app's functionality:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideo/WorkingVideoD.gif" alt="Working App 1 - Dark Mode" width="30%" />
-  <img src="ProjectOutputs/WorkingVideo/WorkingVideoB.gif" alt="Working App 2 - Bright Mode" width="30%" />
+  <img src="ProjectOutputs/WorkingVideo/WorkingVideoD.gif" alt="Working App 1" width="30%" />
 </p>
 
-
-
-➤ <a href="ProjectOutputs/WorkingVideo/SplashScreenDVideo.MP4">🎬 Watch Splash Screen Video - [Dark Mode]</a>
-
-➤ <a href="ProjectOutputs/WorkingVideo/SplashScreenBVideo.MP4">🎬 Watch Splash Screen Video - [Bright Mode]</a>
-
-➤ <a href="ProjectOutputs/WorkingVideo/WorkingVideoD.MP4">🎥 Watch Working Video 1 - [Dark Mode]</a>
-
-➤ <a href="ProjectOutputs/WorkingVideo/WorkingVideoB.MP4">🎥 Watch Working Video 2 - [Bright Mode]</a>
+➤ <a href="ProjectOutputs/WorkingVideo/WorkingVideoD.MP4">🎥 Watch Working Video</a>
 
 ---
 
