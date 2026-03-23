@@ -70,6 +70,10 @@
 
 - [DummyJSON](https://dummyjson.com)
 
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/dummyJSON.png" alt="Dummy json"/>
+</p>
+
 ---
 
 ## 🛠 Technologies Used:
