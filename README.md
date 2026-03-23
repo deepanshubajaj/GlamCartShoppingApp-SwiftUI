@@ -11,6 +11,10 @@
 
 **GlamCart** is a clean and functional iOS shopping app built with **SwiftUI**. It demonstrates a complete e-commerce flow (browse, search, favorites, cart, checkout) using **MVVM** and a lightweight Swift Package (`DummyAPI`) that consumes the **DummyJSON** API.
 
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/GlamCartBanner.png" alt="Banner image"/>
+</p>
+
 ---
 
 ## ✨ Features:
