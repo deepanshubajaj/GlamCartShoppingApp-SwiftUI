@@ -13,7 +13,7 @@
 
 ---
 
-## Features
+## ✨ Features:
 
 - **Authentication**: Login plus local sign-up persisted with `UserDefaults`.
 - **Browse Products**: Grid-based catalog with pagination / infinite scrolling.
@@ -25,7 +25,7 @@
 
 ---
 
-## Requirements
+## 📦 Requirements:
 
 - iOS 16.0+
 - Xcode 14+
@@ -33,7 +33,7 @@
 
 ---
 
-## Project Structure
+## ⛓ Project Structure:
 
     GlamCartShoppingApp-SwiftUI
     .
@@ -50,7 +50,7 @@
 
 ---
 
-## Installation
+## 🛠️ Installation:
 
 1. Clone the repository:
    ```bash
@@ -66,13 +66,13 @@
 
 ---
 
-## APIs
+## 🌐 APIs:
 
 - [DummyJSON](https://dummyjson.com)
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used:
 
 - **SwiftUI** — UI development
 - **MVVM** — separation of concerns
@@ -81,25 +81,149 @@
 
 ---
 
-## App Preview
+## 🎨 App Look:
 
-https://github.com/user-attachments/assets/66d83048-3a0c-4541-a15c-150d465e102e
-
----
-
-## Contributing
-
-Contributions are welcome:
-- Open an issue for bugs/ideas, or submit a pull request.
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/appLookB.jpg" alt="App Look B" width="30%" />
+</p>
+<p align="center">
+  *App snapshot in the simulator.*
+</p>
 
 ---
 
-## License
+## 🖼️ Screenshots:
 
-This project is licensed under the [Apache-2.0 License](./LICENSE).
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/SScreen.jpg" alt="Splash Screen 0D" width="30%" />
+</p>
+
+<p align="center">
+  *Splash screen displayed upon app launch.*
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreenD1.jpg" alt="Main Screen 1D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD2.jpg" alt="Main Screen 2D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD3.jpg" alt="Main Screen 3D" width="30%" />
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreenD4.jpg" alt="Main Screen 4D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD5.jpg" alt="Main Screen 5D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD6.jpg" alt="Main Screen 6D" width="30%" />
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreenD7.jpg" alt="Main Screen 7D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD8.jpg" alt="Main Screen 8D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD9.jpg" alt="Main Screen 9D" width="30%" />
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreenD10.jpg" alt="Main Screen 10D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD11.jpg" alt="Main Screen 11D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD12.jpg" alt="Main Screen 11bD" width="30%" />
+</p>
+
+##
+
+<p align="center">
+    <img src="ProjectOutputs/Snapshots/mainScreenD13.jpg" alt="Main Screen 11bD" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD14.jpg" alt="Main Screen 12D" width="30%" />
+    <img src="ProjectOutputs/Snapshots/mainScreenD11.jpg" alt="Main Screen 13D" width="30%" />
+</p>
+
+
+<p align="center">
+  *Screenshots of the GlamCart App showing different screens*
+</p>
+
+##
 
 ---
 
-## Author
+## 📱 App Icon:
 
-Deepanshu Bajaj — https://github.com/deepanshubajaj
+<p align="center">
+  <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" width="30%" />
+</p>
+<p align="center">
+  *The App Icon reflects the GlamCart Look*
+</p>
+
+---
+
+## 🚀 Video Demo:
+
+Here’s a short video showcasing the app's functionality in Dark & Bright Mode:
+
+<p align="center">
+  <img src="ProjectOutputs/WorkingVideo/WorkingVideoD.gif" alt="Working App 1 - Dark Mode" width="30%" />
+  <img src="ProjectOutputs/WorkingVideo/WorkingVideoB.gif" alt="Working App 2 - Bright Mode" width="30%" />
+</p>
+
+
+
+➤ <a href="ProjectOutputs/WorkingVideo/SplashScreenDVideo.MP4">🎬 Watch Splash Screen Video - [Dark Mode]</a>
+
+➤ <a href="ProjectOutputs/WorkingVideo/SplashScreenBVideo.MP4">🎬 Watch Splash Screen Video - [Bright Mode]</a>
+
+➤ <a href="ProjectOutputs/WorkingVideo/WorkingVideoD.MP4">🎥 Watch Working Video 1 - [Dark Mode]</a>
+
+➤ <a href="ProjectOutputs/WorkingVideo/WorkingVideoB.MP4">🎥 Watch Working Video 2 - [Bright Mode]</a>
+
+---
+
+## 🤝 Contributing:
+
+Thank you for your interest in contributing to this project!  
+I welcome contributions from the community.
+
+- You are free to use, modify, and redistribute this code under the terms of the **Apache-2.0 License**.
+- If you'd like to contribute, please **open an issue** or **submit a pull request**.
+- All contributions will be reviewed and approved by the author — **[Deepanshu Bajaj](https://github.com/deepanshubajaj?tab=overview&from=2025-03-01&to=2025-03-31)**.
+
+---
+
+### 📌 How to Contribute:
+
+To contribute:
+
+1. Fork the repository.
+
+2. Create a new branch:
+   ```bash
+    git checkout -b feature/your-feature-name
+   ```
+
+3. Commit your changes:
+   ```bash
+    git commit -m 'Add your feature'
+   ```
+
+4. Push to the branch:
+   ```bash
+    git push origin feature/your-feature-name
+   ```
+
+5. Open a pull request.
+
+---
+
+## 📃 License:
+
+This project is licensed under the [Apache-2.0 License](./LICENSE).  
+You are free to use this project for personal, educational, or commercial purposes — just make sure to provide proper attribution.
+
+> **Clarification:** Commercial use includes, but is not limited to, use in products,  
+> services, or activities intended to generate revenue, directly or indirectly.
+
