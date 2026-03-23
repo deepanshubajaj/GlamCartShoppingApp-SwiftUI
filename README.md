@@ -147,8 +147,6 @@
   *Screenshots of the GlamCart App showing different screens*
 </p>
 
-##
-
 ---
 
 ## 📱 App Icon:
